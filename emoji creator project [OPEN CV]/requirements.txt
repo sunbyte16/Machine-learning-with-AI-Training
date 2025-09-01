@@ -1,0 +1,27 @@
+# AI Emoji Creator - Requirements
+# Real-time facial emotion detection and emoji generation
+
+# Core ML and Deep Learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Computer Vision
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Image Processing
+pillow>=8.0.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# GUI Framework (usually comes with Python)
+# tkinter
+
+# Optional: For better performance
+# tensorflow-gpu>=2.8.0  # Uncomment if you have GPU support
+
+# Development and Testing (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
